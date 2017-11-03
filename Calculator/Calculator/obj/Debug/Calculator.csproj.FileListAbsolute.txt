@@ -1,0 +1,95 @@
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\BasicMath.dll
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\BasicMath.pdb
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\SoftWare_diploma\C#III\Third Party Libraries\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.dll
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.dll
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.dll
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.pdb
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.pdb
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.pdb
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\P445682\Desktop\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.dll
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.dll
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.dll
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.pdb
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.pdb
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.pdb
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\SoftWare_diploma\C#III\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.dll
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.dll
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.dll
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.pdb
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.pdb
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.pdb
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\SoftWare_diploma\C#III\Assessment\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Algebraic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Arithmetic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\bin\Debug\Trigonometric.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Calculator\Calculator\obj\Debug\Calculator.pdb

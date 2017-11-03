@@ -1,0 +1,16 @@
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\P445682\Documents\Visual Studio 2015\Projects\Algebraic\Algebraic\obj\Debug\Algebraic.pdb
+C:\Users\P445682\Desktop\AT1.6\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\P445682\Desktop\AT1.6\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\P445682\Desktop\AT1.6\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\P445682\Desktop\AT1.6\Algebraic\Algebraic\obj\Debug\Algebraic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Third Party Libraries\AT1.6\Algebraic\Algebraic\obj\Debug\Algebraic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\Valued Customer\Desktop\SoftWare_diploma\C#_3\Assessment\AT1.7\Portfolio Activity 1.6\AT1.6\Algebraic\Algebraic\obj\Debug\Algebraic.pdb
